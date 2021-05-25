@@ -5,7 +5,11 @@
 // from data.js
 const tableData = data;
 
+
 // get table references where table will be inserted
+
+
+
 
 
 function buildTable(data) {
