@@ -7,7 +7,9 @@ const tableData = data;
 
 
 // get table references where table will be inserted
-
+d3.select("tbody")
+ 
+tdata = d3.select("tbody")
 
 
 
